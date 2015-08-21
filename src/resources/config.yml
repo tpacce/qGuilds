@@ -1,0 +1,219 @@
+# Global command options
+commands:
+  main:
+    name: 'guild'
+    description: 'Main guild command'
+    usage: '/guild'
+    aliases: 
+      - g
+      - gildia
+      - gildie
+      - guilds
+      - f
+  create:
+    name: 'create'
+    description: 'Create own guild'
+    usage: '/create [tag] [name]'
+    aliases: 
+      - zaloz
+  info:
+    name: 'info'
+    description: 'Information about guild'
+    usage: '/info [tag]'
+    aliases: 
+      - informacje
+      - information
+      - about
+  delete:
+    name: 'delete'
+    description: 'Delete own guild'
+    usage: '/delete'
+    aliases: 
+      - destroy
+      - usun
+      - del
+  invite:
+    name: 'invite'
+    description: 'Invite player to guild'
+    usage: '/invite [player]'
+    aliases: 
+      - inv
+      - zapros
+  join:
+    name: 'join'
+    description: 'Join to guild'
+    usage: '/join [tag]'
+    aliases: 
+      - dolacz
+  leave:
+    name: 'leave'
+    description: 'Leaving from guild'
+    usage: '/leave'
+    aliases: 
+      - opusc
+  kick:
+    name: 'kick'
+    description: 'Kick from guild'
+    usage: '/kick [player]'
+    aliases: 
+      - wyrzuc
+  pvp:
+    name: 'pvp'
+    description: 'Toggle pvp status in guild'
+    usage: '/pvp'
+    aliases: 
+      - friendlyfire
+      - playervsplayer
+      - ff
+  leader:
+    name: 'leader'
+    description: 'Set new leader of guild'
+    usage: '/leader [player]'
+    aliases: 
+      - lider
+      - admin
+  master:
+    name: 'master'
+    description: 'Add new master of guild'
+    usage: '/master [player]'
+    aliases: 
+      - mistrz
+      - mod
+  home:
+    name: 'home'
+    description: 'Teleport to guild home'
+    usage: '/home'
+    aliases: 
+      - dom
+      - baza
+      - base
+  sethome:
+    name: 'sethome'
+    description: 'Set your guild home'
+    usage: '/sethome'
+    aliases: 
+      - ustawdom
+      - ustawbaze
+      - setbase
+  treasure:
+    name: 'treasure'
+    description: 'Guild treasure'
+    usage: '/treasure'
+    aliases: 
+      - skarbiec
+      - treasury
+      - guilditems
+  title:
+    name: 'title'
+    description: 'Set player title in guild'
+    usage: '/title [player] [title]'
+    aliases: 
+      - tytul
+  broadcast:
+    name: 'broadcast'
+    description: 'Broadcast message to guild'
+    usage: '/broadcast [text]'
+    aliases: 
+      - guildbroadcast
+      - gbroadcast
+      - guildsend
+      - ogloszenie
+  enlarge:
+    name: 'enlarge'
+    description: 'Enlarge guild region'
+    usage: '/enlarge'
+    aliases: 
+      - powieksz
+  top:
+    name: 'top'
+    description: 'Top guilds or players'
+    usage: '/top <guilds/users>'
+    aliases: 
+      - ranking
+      - top10
+  ally:
+    name: 'sojusz'
+    description: 'Sojusze gildyjne'
+    usage: '/sojusz <gildia>'
+    aliases: 
+      - ally
+  effect:
+    name: 'efekt'
+    description: 'Efekt dla gildii'
+    usage: '/efekt'
+    aliases: 
+      - effect
+# Tag maximum length
+tag-length-max: 5
+# Tag minimum length
+tag-length-min: 2
+# Name maximum length
+name-length-max: 30
+# Name minimum length
+name-length-min: 7
+# Guild region size
+region-size: 50
+# Spawn protection
+spawn-radius: 100
+# World able to guild create
+world: 'world'
+# Items for join
+join-item: '16 diamond'
+# Items for effect
+effect-items:
+  - 64 emerald
+# Items for default player
+create-items:
+  - 10 diamond
+  - 10 emerald
+  - 1 enchanted golden apple
+# Items for qguilds.vip permission
+create-items-vip:
+  - 5 diamond
+  - 5 emerald
+# Chat formats
+chat-tag-format: '&8[&2%tag%&8] '
+chat-points-format: '&8[&c%points%&8]'
+# Max masters in guild
+max-masters: 3
+# Teleport time in seconds
+teleport-delay: 10
+# Chat formats ( !text or !!text)
+guild-message-format: '&2%title% %player% -> %tag%: &a%message%'
+ally-message-format: '&6[%tag%] %player% -> Ally: &e%message%'
+# Enlarge settings
+enlarge-radius: 5
+enlarge-item: GOLD_INGOT
+enlarge-max-radius: 70
+# Time between effect take (in seconds)
+effect-time: 7200
+# Chance to drop items from list.
+war-items-chance: 45
+# Chance to obisidian destroy
+obsidian-destroy-chance: 30
+# Chance to water or lava destroy
+water-lava-destroy-chance: 25
+# Nametags 
+nametag-prefix-leader: '&f[&e%tag%&f] '
+nametag-prefix-master: '&f[&e%tag%&f] '
+nametag-prefix-member: '&f[&e%tag%&f] '
+nametag-prefix-nonguild: '&f'
+nametag-suffix-leader: ' &e**'
+nametag-suffix-master: ' &e*'
+nametag-suffix-member: ''
+nametag-suffix-nonguild: ''
+# Global save data type  ( mysql / flat )
+data-type: flat
+# MySQL
+mysql:
+  adress: localhost
+  username: root
+  password: ''
+  database: qguilds
+  port: 3306
+
+
+
+
+
+

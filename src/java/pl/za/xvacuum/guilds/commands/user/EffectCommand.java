@@ -25,7 +25,7 @@ public class EffectCommand extends Executor{
 	public EffectCommand() {
 		super(cfg.getString("commands.effect.name"), 
 				cfg.getString("commands.effect.description"), 
-				cfg.getString("commands.effect.usage"), "create", 
+				cfg.getString("commands.effect.usage"), "effect", 
 				cfg.getStringList("commands.effect.aliases"), true);
 	}
 

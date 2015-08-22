@@ -71,7 +71,7 @@ public class Main extends JavaPlugin{
 	public static final String AUTHOR = "KaVz";
 	public static final String WEBSITE = "http://kavz.za.pl/qGuilds";
 	public static final String NAME = "qGuilds";
-	public static final String VERSION = "2.50.9";
+	public static final String VERSION = "2.51.0";
 	
 	protected static Update update;
 	

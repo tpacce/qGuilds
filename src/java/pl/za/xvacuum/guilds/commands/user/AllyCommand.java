@@ -21,7 +21,7 @@ public class AllyCommand extends Executor{
 	public AllyCommand() {
 		super(cfg.getString("commands.ally.name"), 
 				cfg.getString("commands.ally.description"), 
-				cfg.getString("commands.ally.usage"), "broadcast", 
+				cfg.getString("commands.ally.usage"), "ally", 
 				cfg.getStringList("commands.ally.aliases"), true);
 		
 	}

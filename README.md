@@ -4,6 +4,7 @@ Ultimate guilds plugin for Minecraft 1.8
 ![alt tag](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
 
 ![alt tag](http://www.mpcforum.pl/uploads/images/939631438593697827517.png)
+
 ![alt tag](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
 
 ![alt tag](http://www.mpcforum.pl/uploads/images/871421438593697827517.png)
@@ -11,9 +12,11 @@ Ultimate guilds plugin for Minecraft 1.8
 ![alt tag](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
 
 ![alt tag](http://www.mpcforum.pl/uploads/images/377811438593697827517.png)
+
 ![alt tag](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
 
 ![alt tag](http://www.mpcforum.pl/uploads/images/982171438593697827517.png)
+
 ![alt tag](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
 
 

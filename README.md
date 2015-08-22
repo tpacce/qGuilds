@@ -1,9 +1,9 @@
 # qGuilds
 Ultimate guilds plugin for Minecraft 1.8
 
-![alt tagfff](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
+![alt tag](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
 
-![alt tag](http://www.mpcforum.pl/uploads/images/939631438593697827517.png)
+![alt tagff](http://www.mpcforum.pl/uploads/images/939631438593697827517.png)
 
 ![alt tagf](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
 

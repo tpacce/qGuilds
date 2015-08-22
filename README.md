@@ -59,7 +59,7 @@ http://kavz.za.pl/qGuilds
 
 ## ZBIÓR INFORMACJI  
 
-*>  UPRAWINENIA  <*
+###*>  UPRAWINENIA  <*
 -  qguilds.ally  
 -  qguilds.broadcast  
 -  qguilds.create  
@@ -85,7 +85,7 @@ http://kavz.za.pl/qGuilds
 -  qguilds.admin.player  
 -  qguilds.admin.reload  
 
-*>  WYMAGANIA SPRZĘTOWE  <*
+###*>  WYMAGANIA SPRZĘTOWE  <*
 
 ProtocolLib 1.8.X  (konkretny build)
 

@@ -60,29 +60,30 @@ http://kavz.za.pl/qGuilds
 ## ZBIÓR INFORMACJI  
 
 *>  UPRAWINENIA  <*
--  qguilds.ally  -
--  qguilds.broadcast  -
--  qguilds.create  -
--  qguilds.delete  -
--  qguilds.join  -
--  qguilds.leave  -
--  qguilds.treasure  -
--  qguilds.title  -
--  qguilds.top  -
--  qguilds.info  -
--  qguilds.home  -
--  qguilds.sethome  -
--  qguilds.invite  -
--  qguilds.pvp  -
--  qguilds.master  -
--  qguilds.leader  -
--  qguilds.kick  -
--  qguilds.enlarge  -
--  qguilds.effect  -
+-  qguilds.ally  
+-  qguilds.broadcast  
+-  qguilds.create  
+-  qguilds.delete  
+-  qguilds.join  
+-  qguilds.leave  
+-  qguilds.treasure  
+-  qguilds.title  
+-  qguilds.top
+-  qguilds.info  
+-  qguilds.home  
+-  qguilds.sethome  
+-  qguilds.invite  
+-  qguilds.pvp  
+-  qguilds.master  
+-  qguilds.leader  
+-  qguilds.kick  
+-  qguilds.enlarge  
+-  qguilds.effect  
 
--  qguilds.admin.delete  -
--  qguilds.admin.player  -
--  qguilds.admin.reload  -
+
+-  qguilds.admin.delete  
+-  qguilds.admin.player  
+-  qguilds.admin.reload  
 
 *>  WYMAGANIA SPRZĘTOWE  <*
 ProtocolLib 1.8.X  (konkretny build)

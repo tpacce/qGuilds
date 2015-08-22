@@ -1,25 +1,4 @@
-# qGuilds
-Ultimate guilds plugin for Minecraft 1.8
-
-![](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
-
-![](http://www.mpcforum.pl/uploads/images/939631438593697827517.png)
-
-![alt tagf](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
-
-![alt tag](http://www.mpcforum.pl/uploads/images/871421438593697827517.png)
-
-![alt tag](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
-
-
-![alt tag](http://www.mpcforum.pl/uploads/images/377811438593697827517.png)
-
-![alt tag](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
-
-![alt tag](http://www.mpcforum.pl/uploads/images/982171438593697827517.png)
-
-![alt tag](http://www.e-gify.pl/gify/dla_stron_i_blogow/linie/linie70.gif)
-
+~ Prezentacja MPCForum (niektóre zdjecia sa uciete - i ich nie ma.)
 
 Cześć, chciałbym wam zaprezentować mój nowy projekt, siedziałem nad nim trochę, więc mam nadzieje że nie będzie wielu komentarzy od "profesjonalnych" programistów i typowych zjebów.
 Chcę również zaznaczyć iż może zdarzyć się mikro-błąd, ale większość bugów zostało wyeliminowanych, jeżeli tylko byście coś znaleźli - plz pisać.
